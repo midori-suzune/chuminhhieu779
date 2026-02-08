@@ -28,8 +28,6 @@
   
 </div>
 
-
-
 <h2 align="center"> 🏆 Coding Activity & LeetCode 🏆 </h2>
 
 <!--START_SECTION:waka-->

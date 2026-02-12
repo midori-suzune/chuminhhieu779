@@ -24,8 +24,6 @@
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=chuminhhieu779&theme=dracula&hide_border=false&cache_seconds=1" height="170"/>
 
-
-  
 </div>
 
 <h2 align="center"> 🏆 Coding Activity & LeetCode 🏆 </h2>

@@ -16,13 +16,10 @@
 
 <div align="center">
 
-
-
-
  <img src="https://my-readme-stats-eight.vercel.app/api?username=chuminhhieu779&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
  
+<img src="https://nirzak-streak-stats.vercel.app/?user=chuminhhieu779&theme=dracula&hide_border=false&cache_seconds=2" height="170"/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chuminhhieu779&theme=dracula&hide_border=false&cache_seconds=1" height="170"/>
 
 </div>
 

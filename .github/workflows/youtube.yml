@@ -13,7 +13,7 @@ jobs:
         with:
           playlist_id: ${{ secrets.PLAYLIST_KEY }}
           comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          youtube_api_key: ${{ secrets.YOUTUBE_API }}
           show_duration: true
           max_videos: 6
           readme_path: README.md

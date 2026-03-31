@@ -16,5 +16,12 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API }}
           show_duration: true
           max_videos: 6
+          card_width: 280
+          max_title_lines: 2
+          background_color: "#1f2335"
+          title_color: "#e6edf3"
+          stats_color: "#a6adc8"
+          theme_context_light: '{ "background_color": "#f6f8fa", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#1f2335", "title_color": "#e6edf3", "stats_color": "#a6adc8" }'
           readme_path: README.md
           commit_message: "docs(readme): update YouTube cards"

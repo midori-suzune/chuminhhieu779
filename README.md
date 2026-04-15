@@ -91,6 +91,18 @@ TypeScript               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <h2 align="center"> 📖 Learning Daily 📖 </h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=YHITn1yAH_M">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YHITn1yAH_M&title=Is+breakfast+really+the+most+important+meal+of+the+day%3F+-+The+Food+Chain+podcast%2C+BBC+World+Service&lang=en&timestamp=1759147270&background_color=%231f2335&title_color=%23e6edf3&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=5&duration=1445">
+    <img src="https://ytcards.demolab.com/?id=YHITn1yAH_M&title=Is+breakfast+really+the+most+important+meal+of+the+day%3F+-+The+Food+Chain+podcast%2C+BBC+World+Service&lang=en&timestamp=1759147270&background_color=%23f6f8fa&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1445" alt="Is breakfast really the most important meal of the day? - The Food Chain podcast, BBC World Service" title="Is breakfast really the most important meal of the day? - The Food Chain podcast, BBC World Service">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=liyn5xWvx44">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=liyn5xWvx44&title=Which+country+has+the+best+education+in+the+world%3F+-+The+Global+Story+podcast%2C+BBC+World+Service&lang=en&timestamp=1733576453&background_color=%231f2335&title_color=%23e6edf3&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=5&duration=1333">
+    <img src="https://ytcards.demolab.com/?id=liyn5xWvx44&title=Which+country+has+the+best+education+in+the+world%3F+-+The+Global+Story+podcast%2C+BBC+World+Service&lang=en&timestamp=1733576453&background_color=%23f6f8fa&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1333" alt="Which country has the best education in the world? - The Global Story podcast, BBC World Service" title="Which country has the best education in the world? - The Global Story podcast, BBC World Service">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=2-6OUpAr7wM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2-6OUpAr7wM&title=I%27m+Bad+at+Video+Games%2C+So+I+Played+Sekiro&lang=en&timestamp=1769903761&background_color=%231f2335&title_color=%23e6edf3&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=5&duration=9668">

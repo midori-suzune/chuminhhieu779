@@ -20,14 +20,14 @@
     </g>
   <g transform="translate(16, 56) scale(1)">
       <text x="177.5" y="22.5" font-size="12" text-anchor="middle" fill="#5f574f" font-weight="bold">I'm most productive on Tuesdays</text>
-      <rect x="30" y="47.69718779592968" width="30" height="58.80281220407032" fill="#9c8f80" rx="3" ry="3" />
-<text x="45" y="43.69718779592968" font-size="9" text-anchor="middle" fill="#5f574f">02:56</text>
+      <rect x="30" y="48.806674818123746" width="30" height="57.693325181876254" fill="#9c8f80" rx="3" ry="3" />
+<text x="45" y="44.806674818123746" font-size="9" text-anchor="middle" fill="#5f574f">02:53</text>
 <text x="45" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Mon</text>
-<text x="45" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">15.8%</text>
+<text x="45" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">15.6%</text>
 <rect x="75" y="46.5" width="30" height="60" fill="#9c8f80" rx="3" ry="3" />
 <text x="90" y="42.5" font-size="9" text-anchor="middle" fill="#5f574f">02:59</text>
 <text x="90" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Tue</text>
-<text x="90" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">16.1%</text>
+<text x="90" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">16.2%</text>
 <rect x="120" y="55.60277751985354" width="30" height="50.89722248014646" fill="#9c8f80" rx="3" ry="3" />
 <text x="135" y="51.60277751985354" font-size="9" text-anchor="middle" fill="#5f574f">02:32</text>
 <text x="135" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Wed</text>
@@ -35,20 +35,20 @@
 <rect x="165" y="61.601279253601064" width="30" height="44.898720746398936" fill="#9c8f80" rx="3" ry="3" />
 <text x="180" y="57.601279253601064" font-size="9" text-anchor="middle" fill="#5f574f">02:14</text>
 <text x="180" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Thu</text>
-<text x="180" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">12.0%</text>
+<text x="180" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">12.1%</text>
 <rect x="210" y="48.827296900375636" width="30" height="57.672703099624364" fill="#9c8f80" rx="3" ry="3" />
 <text x="225" y="44.827296900375636" font-size="9" text-anchor="middle" fill="#5f574f">02:52</text>
 <text x="225" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Fri</text>
-<text x="225" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">15.5%</text>
+<text x="225" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">15.6%</text>
 <rect x="255" y="62.11206526732079" width="30" height="44.38793473267921" fill="#9c8f80" rx="3" ry="3" />
 <text x="270" y="58.11206526732079" font-size="9" text-anchor="middle" fill="#5f574f">02:13</text>
 <text x="270" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Sat</text>
-<text x="270" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">11.9%</text>
-<rect x="300" y="50.51180031620827" width="30" height="55.98819968379173" fill="#9c8f80" rx="3" ry="3" />
-<text x="315" y="46.51180031620827" font-size="9" text-anchor="middle" fill="#5f574f">02:47</text>
+<text x="270" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">12.0%</text>
+<rect x="300" y="51.164993883913496" width="30" height="55.335006116086504" fill="#9c8f80" rx="3" ry="3" />
+<text x="315" y="47.164993883913496" font-size="9" text-anchor="middle" fill="#5f574f">02:45</text>
 <text x="315" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Sun</text>
-<text x="315" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">15.0%</text>
-      <text x="177.5" y="156.5" font-size="12" text-anchor="middle" fill="#5f574f"><tspan font-weight="bold">Total:</tspan> 18 hrs 37 mins</text>
+<text x="315" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">14.9%</text>
+      <text x="177.5" y="156.5" font-size="12" text-anchor="middle" fill="#5f574f"><tspan font-weight="bold">Total:</tspan> 18 hrs 32 mins</text>
     </g>
 <g transform="translate(0, 242.5) scale(1)">
       <text x="197.5" y="25" font-size="16" text-anchor="middle" fill="#5f574f" font-family="Calibri" font-weight="bold">Weekly Ranking</text>

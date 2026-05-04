@@ -20,8 +20,8 @@
     </g>
   <g transform="translate(16, 56) scale(1)">
       <text x="177.5" y="22.5" font-size="12" text-anchor="middle" fill="#5f574f" font-weight="bold">I'm most productive on Tuesdays</text>
-      <rect x="30" y="48.806674818123746" width="30" height="57.693325181876254" fill="#9c8f80" rx="3" ry="3" />
-<text x="45" y="44.806674818123746" font-size="9" text-anchor="middle" fill="#5f574f">02:53</text>
+      <rect x="30" y="48.69567611099483" width="30" height="57.80432388900517" fill="#9c8f80" rx="3" ry="3" />
+<text x="45" y="44.69567611099483" font-size="9" text-anchor="middle" fill="#5f574f">02:53</text>
 <text x="45" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Mon</text>
 <text x="45" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">15.6%</text>
 <rect x="75" y="46.5" width="30" height="60" fill="#9c8f80" rx="3" ry="3" />
@@ -39,7 +39,7 @@
 <rect x="210" y="48.827296900375636" width="30" height="57.672703099624364" fill="#9c8f80" rx="3" ry="3" />
 <text x="225" y="44.827296900375636" font-size="9" text-anchor="middle" fill="#5f574f">02:52</text>
 <text x="225" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Fri</text>
-<text x="225" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">15.6%</text>
+<text x="225" y="130.5" font-size="9" text-anchor="middle" fill="#5f574f">15.5%</text>
 <rect x="255" y="62.11206526732079" width="30" height="44.38793473267921" fill="#9c8f80" rx="3" ry="3" />
 <text x="270" y="58.11206526732079" font-size="9" text-anchor="middle" fill="#5f574f">02:13</text>
 <text x="270" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#5f574f">Sat</text>
@@ -70,9 +70,9 @@
       Unranked Tier: Below 10000
     </text>
     <rect x="160" y="65" width="160" height="8" fill="#9c8f80" rx="4" opacity="0.3"/>
-    <rect x="160" y="65" width="2.3188405797101446" height="8" fill="#9c8f80" rx="4"/>
+    <rect x="160" y="65" width="8.333333333333334" height="8" fill="#9c8f80" rx="4"/>
     <text x="320" y="95" font-size="11" text-anchor="end" fill="#5f574f" font-family="Calibri">
-      Reach 8.1 hrs
+      Reach 8.0 hrs
     </text></g>
     </g>
 </svg>

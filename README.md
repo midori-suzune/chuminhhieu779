@@ -29,7 +29,7 @@
 <!-- YOUPASS_BADGES:START -->
 <p align="left">
   <!-- YOUPASS_STREAK_BADGE:START -->
-  <img src="assets/ielts-streak.svg" alt="IELTS Streak: 78 days" />
+  <img src="assets/ielts-streak.svg" alt="IELTS Streak: 88 days" />
 <!-- YOUPASS_STREAK_BADGE:END -->
   <!-- LUYENNOI_STREAK_BADGE:START -->
   <img src="assets/luyennoi-streak.svg" alt="Luyennoi Streak: 4 days" />
@@ -47,17 +47,17 @@ Mastered: 262 words
 
 Date        Skill          Title                                           Score      Time
 ────────────────────────────────────────────────────────────────────────────────────────────────────
-26.8.27     Listening      Pinder's Animal Park                           20.00%       15m
+26.9.7      Reading        Carnivorous Plants                             69.23%       30m
 
-26.8.26     Listening      Winsham Farm                                   70.00%       24m
+26.9.7      Listening      Party Reservation (Shaw Restaurant)            80.00%       14m
 
-26.8.25     Listening      Temporary Patient Record Form                  80.00%       13m
+26.9.6      Listening      Beechen Festival                               70.00%       16m
+
+26.9.5      Listening      New job in the pharmacy                        70.00%       11m
+
+26.9.2      Reading        The development of plastics                    53.85%       31m
 
 26.8.17     Reading        What Lucy Taught Us                            84.62%       26m
-
-26.8.14     Reading        The development of the London underground…     84.62%       23m
-
-26.7.30     Reading        Archaeologists discover evidence of prehi…     76.92%       31m
 ```
 <!-- YOUPASS:END -->
 
